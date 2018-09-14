@@ -1,0 +1,21 @@
+ .text-center{
+    text-align: center;
+}
+span{
+    display: block;
+}
+input{
+    display: block;
+    margin: 20 auto;
+    padding: 10px;
+    
+}
+button{
+    margin-left: 48%;
+}
+.hide{
+    display: none;
+}
+.show{
+    display: block; 
+}
